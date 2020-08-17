@@ -1,0 +1,2 @@
+C:\Users\igmen\Desktop\Projects\Others\Dijkstra\Debug\Dijkstra.exe
+C:\Users\igmen\Desktop\Projects\Others\Dijkstra\Debug\Dijkstra.pdb
