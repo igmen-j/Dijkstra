@@ -2,7 +2,7 @@
 
 For CS 340 Advanced Data Structures and Algorithm Design Class.
 
-To run:
+To run:  
 -- Download Dijkstra.exe  
 -- Enter inputs  
 -- See output  
